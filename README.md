@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
 ## Folder Structure
 
@@ -9,6 +9,7 @@ my-app/
   README.md
   node_modules/
   package.json
+  yarn.lock
   public/
     index.html
     favicon.ico
@@ -37,11 +38,11 @@ They will not be included in the production build so you can use them for things
 
 In the project directory, you can run:
 
-### `npm install or yarn`
+`npm install or yarn`
 
 install required packages for this project
 
-### `npm start or yarn start`
+`npm start or yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
