@@ -5,7 +5,7 @@ This project was followed with [React Tutorial](https://reactjs.org/tutorial/tut
 After creation, your project should look like this:
 
 ```
-my-app/
+tic-tac-toe/
   README.md
   node_modules/
   package.json
