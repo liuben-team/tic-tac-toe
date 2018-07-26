@@ -1,4 +1,4 @@
-This project was bootstrapped with [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
+This project was followed with [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
 ## Folder Structure
 
